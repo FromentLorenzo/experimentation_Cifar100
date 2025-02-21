@@ -1,0 +1,8 @@
+{
+    "epoch": 99,
+    "train_loss": 0.14888802193403244,
+    "train_accuracy": 95.1625,
+    "val_loss": 3.6695214612960814,
+    "val_accuracy": 54.63,
+    "learning_rate": 0.09330395072549084
+}
